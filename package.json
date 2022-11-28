@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "blockchain": "^1.0.6",
+    "elliptic": "^6.5.4"
+  }
+}
